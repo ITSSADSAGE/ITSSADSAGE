@@ -10,11 +10,11 @@ Hi, I'm SHREENATH SHARAN (aka SADSAGE) 👋<br>I am an AI Engineer and Software 
 # 📊 GitHub Stats:
 <div align="center">
   
-[![SADSAGE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SADSAGE&theme=radical&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/SADSAGE)
+[![ITSSADSAGE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ITSSADSAGE&theme=radical&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/ITSSADSAGE)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SADSAGE&theme=radical&hide_border=false)](https://github.com/SADSAGE)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ITSSADSAGE&theme=radical&hide_border=false)](https://github.com/ITSSADSAGE)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SADSAGE&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/SADSAGE)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ITSSADSAGE&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/ITSSADSAGE)
 
 </div>
 
@@ -22,7 +22,7 @@ Hi, I'm SHREENATH SHARAN (aka SADSAGE) 👋<br>I am an AI Engineer and Software 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=SADSAGE&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ITSSADSAGE&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
