@@ -10,19 +10,16 @@ Hi, I'm SHREENATH SHARAN (aka SADSAGE) 👋<br>I am an AI Engineer and Software 
 # 📊 GitHub Stats:
 <div align="center">
 
-![ITSSADSAGE's GitHub Stats](https://github-readme-stats-git-main-itssadsages-projects.vercel.app/api?username=ITSSADSAGE&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=ff006e&icon_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ITSSADSAGE&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ITSSADSAGE&theme=radical&hide_border=true&background=0d1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ITSSADSAGE&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-git-main-itssadsages-projects.vercel.app/api/top-langs/?username=ITSSADSAGE&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=ff006e)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ITSSADSAGE&theme=tokyonight&layout=compact)
 
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 📈 Contribution Graph
-![ITSSADSAGE's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ITSSADSAGE&theme=radical&hide_border=true&area=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
