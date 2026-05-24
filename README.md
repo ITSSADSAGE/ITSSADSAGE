@@ -1,5 +1,21 @@
 # 💫 About Me:
-Hi, I'm SHREENATH SHARAN (aka SADSAGE) 👋<br>I am an AI Engineer and Software Developer based in Mumbai, driven by the challenge of bridging the gap between intelligent software and physical hardware. Passionate about AI/ML, IoT, and building scalable solutions.
+Hi, I'm **SHREENATH SHARAN** (aka SADSAGE) 👋
+
+I'm a **Software Engineer and AI enthusiast** on a mission to bridge intelligent systems with practical engineering. My passion lies in crafting scalable backend solutions, exploring generative AI, and bringing IoT ideas to life.
+
+My coding journey started in 2020 when I discovered JavaScript through self-learning, which sparked an obsession with full-stack development and system design. Now, as an engineering student at **Thakur College of Engineering and Technology (TCET)**, Mumbai, I'm diving deep into the intersection of software, AI, and hardware—building everything from optimized cloud backends to AI-powered applications and physical IoT prototypes.
+
+**What I Build:**
+- 🔧 **Backend Systems** - Node.js services deployed on Google Cloud
+- 🤖 **AI-Powered Tools** - Integrating Generative AI and Local LLMs (Ollama, LLaMA, Whisper)
+- 📱 **Mobile Apps** - Cross-platform development with Flutter
+- 🌐 **Cloud Infrastructure** - Google Cloud, Firebase, Docker, Kubernetes
+- 🎛️ **IoT Solutions** - Arduino, ESP32, sensor integration, and real-world hardware projects
+
+**Tech Arsenal:**
+JavaScript (Node.js) • Python • Dart • C++ • Generative AI • Machine Learning • Flutter • Firebase • MongoDB • Google Cloud • Arduino & ESP32
+
+Always excited to connect with developers, AI builders, and tech enthusiasts. Let's create something impactful together! 🚀
 
 ## 🌐 Socials & Profiles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreenath-sharan-7a1146244/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/the.shit_s) [![Google Skills](https://img.shields.io/badge/Google_Skills-%234285F4.svg?logo=google&logoColor=white)](https://www.skills.google/public_profiles/b03ebecc-3528-47d9-89c6-9e0659ef3050) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/ITSSADSAGE)
