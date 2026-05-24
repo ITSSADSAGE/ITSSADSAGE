@@ -10,11 +10,9 @@ Hi, I'm SHREENATH SHARAN (aka SADSAGE) 👋<br>I am an AI Engineer and Software 
 # 📊 GitHub Stats:
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ITSSADSAGE&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ITSSADSAGE&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ITSSADSAGE&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ITSSADSAGE&theme=tokyonight&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ITSSADSAGE&theme=tokyonight&hide_border=true)
 
 </div>
 
